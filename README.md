@@ -38,8 +38,6 @@ Sou uma profissional comprometida com o aprendizado contínuo, sempre buscando a
 </div>
 
 ##
-Hi!! I'm a Information Systems student at UNEB (State University of Bahia), currently in my sixth period. I also work as a data acquisition engineer at Jusbrasil, where I apply my knowledge in crawlers, data manipulation, software testing, and web development to contribute to the team's projects.
+Hi!! I'm a Information Systems student at UNEB (State University of Bahia), currently in my sixth period. I also work as a data acquisition engineer at Jusbrasil, where I apply my knowledge in crawlers, data manipulation, software testing, and web development to contribute to the team's projects. My main areas of interest are backend development, software engineering, data engineering and RPA (Robotic Process Automation), in which I continuously seek to learn and deepen my knowledge.
 
-Throughout my journey, I've worked with technologies like python, web scraping, crawlers and web frameworks (Flask, FastAPI e Spring Boot), and I've also had contact with docker and databases such as MySQL. My main areas of interest are backend development, software engineering, data engineering and RPA (Robotic Process Automation), in which I continuously seek to learn and deepen my knowledge.
-
-I'm a professional who's commited with continuos learning, always looking forward to improve my skillsa and contribute with dedication, purpose and creativity in all projects I'm part of. I believe that the mix of technical knowledge, curiosity and resilience is essential to boost my professional journey and create a positive impact in the tech community.
+I'm a professional who's commited with continuos learning, always looking forward to improve my skills and contribute with dedication, purpose and creativity in all projects I'm part of. I believe that the mix of technical knowledge, curiosity and resilience is essential to boost my professional journey and create a positive impact in the tech community.
