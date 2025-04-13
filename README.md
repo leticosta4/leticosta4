@@ -17,9 +17,9 @@ Sou uma profissional comprometida com o aprendizado contínuo, sempre buscando a
   
 </p>
 
-<br>
-
 ##
+
+### <p align="center"> Algumas tecnologias que uso e estudo atualmente: </p>
 <br>
  <div align="center">
    
